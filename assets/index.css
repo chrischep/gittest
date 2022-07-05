@@ -1,0 +1,25 @@
+header {
+    text-align: center;
+    padding-bottom: 10px;
+  }
+  time {
+    border-style: dashed none dashed none;
+    display: block;
+  }
+  h1 {
+    font-size: 4em;
+    font-family: Georgia, sans-serif;
+    color: rgb(71, 114, 232);
+    text-shadow: 3px 1px black;
+    margin-bottom: 40px;
+  }
+  
+  h3 {
+    margin: 0;
+    font-family: georgia, sans-serif;
+    font-size: 1.3em;
+  }
+  .content {
+    margin: 0 0 0 10px;
+    /*box-shadow: 0 0 20px 0px #888888;*/
+  }
